@@ -1,15 +1,15 @@
 # 📊 Customer Churn Analysis
 
+## 🚀 Business Problem
+
+Customer churn leads to revenue loss and increased acquisition costs. This project aims to identify key drivers of churn and provide actionable insights to improve customer retention.
+
+---
+
 ## 📌 Project Overview
 This project analyzes customer churn behavior in a telecom company to identify key factors influencing customer retention and churn.
 
 The goal is to provide actionable insights that help businesses reduce customer loss and improve retention strategies.
-
----
-
-## 🚀 Business Problem
-
-Customer churn leads to revenue loss and increased acquisition costs. This project aims to identify key drivers of churn and provide actionable insights to improve customer retention.
 
 ---
 
@@ -45,13 +45,13 @@ Customer churn leads to revenue loss and increased acquisition costs. This proje
 
 ---
 
-## 📈 Key Insights
+## 📊 Key Insights
 
-- 🔴 Churn Rate: **26.54%**
-- 📉 Customers with **month-to-month contracts** have the highest churn
-- ⚡ Customers with **electronic check payments** churn more
-- ⏳ Customers with **low tenure (0–10 months)** are most likely to churn
-- 📈 Long-term customers show higher retention
+- 🔴 26.54% customers churned, indicating a significant retention challenge  
+- 📉 Customers with month-to-month contracts have the highest churn risk  
+- ⚡ Electronic check users show higher churn behavior  
+- ⏳ Customers in early tenure (0–10 months) are most vulnerable  
+- 📈 Customer loyalty increases significantly with longer tenure
 
 ---
 
@@ -75,4 +75,10 @@ https://public.tableau.com/views/CustomerChurnAnalysisDashboard_17762814741980/C
 
 ---
 
-## 📁 Project Structure
+## 🧠 Skills Demonstrated
+
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+- Dashboard Design (Tableau)  
+- Business Insight Generation
