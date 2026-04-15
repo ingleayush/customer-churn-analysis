@@ -7,6 +7,20 @@ The goal is to provide actionable insights that help businesses reduce customer 
 
 ---
 
+## 🚀 Business Problem
+
+Customer churn leads to revenue loss and increased acquisition costs. This project aims to identify key drivers of churn and provide actionable insights to improve customer retention.
+
+---
+
+## 🎯 Objective
+
+- Analyze customer behavior  
+- Identify high-risk churn segments  
+- Provide data-driven recommendations
+
+  ---
+  
 ## 🛠 Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
 - Tableau (Dashboard Visualization)
@@ -21,6 +35,16 @@ The goal is to provide actionable insights that help businesses reduce customer 
 
 ---
 
+## 🔄 Project Workflow
+
+1. Data Cleaning & Preprocessing  
+2. Exploratory Data Analysis (EDA)  
+3. Feature Engineering  
+4. Data Visualization  
+5. Dashboard Creation (Tableau)
+
+---
+
 ## 📈 Key Insights
 
 - 🔴 Churn Rate: **26.54%**
@@ -30,6 +54,12 @@ The goal is to provide actionable insights that help businesses reduce customer 
 - 📈 Long-term customers show higher retention
 
 ---
+
+## 📈 Dashboard
+
+🔗 [View Interactive Dashboard](https://public.tableau.com/views/CustomerChurnAnalysisDashboard_17762814741980/CustomerChurnAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Dashboard Preview](dashboard/tableau_dashboard.png)
 
 ## 📌 Business Recommendations
 
