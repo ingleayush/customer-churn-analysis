@@ -1,4 +1,4 @@
-"}
+
 # 📊 Customer Churn Analysis
 
 ## 🔍 Project Overview
