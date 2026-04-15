@@ -1,45 +1,54 @@
-
 # 📊 Customer Churn Analysis
 
-## 🔍 Project Overview
-This project analyzes customer churn behavior using Python and Tableau to identify key drivers and improve customer retention strategies.
+## 📌 Project Overview
+This project analyzes customer churn behavior in a telecom company to identify key factors influencing customer retention and churn.
+
+The goal is to provide actionable insights that help businesses reduce customer loss and improve retention strategies.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠 Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
-- Tableau
+- Tableau (Dashboard Visualization)
+- Jupyter Notebook
 
 ---
 
-## 📁 Dataset
-The dataset includes customer details such as tenure, contract type, payment method, and churn status.
+## 📊 Dataset
+- 7,043 customers
+- Telecom customer data
+- Features include tenure, contract type, payment method, charges, etc.
 
 ---
 
-## 📊 Key Insights
-- Month-to-month contracts have the highest churn  
-- Early tenure customers (0–10 months) are most likely to churn  
-- Electronic check users show higher churn rates  
-- Customer retention improves with longer tenure  
+## 📈 Key Insights
+
+- 🔴 Churn Rate: **26.54%**
+- 📉 Customers with **month-to-month contracts** have the highest churn
+- ⚡ Customers with **electronic check payments** churn more
+- ⏳ Customers with **low tenure (0–10 months)** are most likely to churn
+- 📈 Long-term customers show higher retention
 
 ---
 
-## 📈 Dashboard
+## 📊 Dashboard Preview
 
-🔗 View Interactive Dashboard:  
-(https://public.tableau.com/views/CustomerChurnAnalysisDashboard_17762814741980/CustomerChurnAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
----
-
-Dashboard Preview
+![Dashboard](dashboard/tableau_dashboard.png)
 
 ---
 
-## 🚀 Conclusion
-The analysis highlights key churn drivers and suggests focusing on early customer engagement and contract upgrades to reduce churn.
+## 📌 Business Recommendations
+
+- Offer incentives for long-term contracts  
+- Improve onboarding experience for new customers  
+- Promote auto-payment methods  
+- Focus on early customer engagement  
 
 ---
 
-## 👨‍💻 Author
-Ayush
+## 🔗 Tableau Dashboard
+https://public.tableau.com/views/CustomerChurnAnalysisDashboard_17762814741980/CustomerChurnAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+---
+
+## 📁 Project Structure
