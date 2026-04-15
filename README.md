@@ -31,12 +31,6 @@ The goal is to provide actionable insights that help businesses reduce customer 
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard](dashboard/tableau_dashboard.png)
-
----
-
 ## 📌 Business Recommendations
 
 - Offer incentives for long-term contracts  
