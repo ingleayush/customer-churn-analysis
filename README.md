@@ -28,7 +28,7 @@ The dataset includes customer details such as tenure, contract type, payment met
 ## 📈 Dashboard
 
 🔗 View Interactive Dashboard:  
-(Paste your Tableau Public link here)
+(https://public.tableau.com/views/CustomerChurnAnalysisDashboard_17762814741980/CustomerChurnAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
